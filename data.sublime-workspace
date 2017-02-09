@@ -1,0 +1,318 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"o",
+				"observedPin"
+			],
+			[
+				"lo",
+				"lowestCatItem"
+			],
+			[
+				"is",
+				"isGreater"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"pr",
+				"project"
+			],
+			[
+				"Fir",
+				"FirstName"
+			],
+			[
+				"get",
+				"getGivenName"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"List",
+				"List"
+			],
+			[
+				"to",
+				"toJS"
+			],
+			[
+				"mar",
+				"margin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "sftp",
+		"selected_items":
+		[
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Admin/Desktop/UCSD LIFE/cogs120/Project/static/index2.html",
+		"/Users/Admin/Desktop/UCSD LIFE/cogs120/Project/static/index.html",
+		"/Users/Admin/Desktop/UCSD LIFE/cogs120/Project/static/js/camera.js",
+		"/Users/admin/Desktop/UCSD LIFE/cogs120/Project/static/js/mycam.js",
+		"/Users/Admin/Desktop/UCSD LIFE/cogs120/Project/static/ultCam.html",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486518611/CSE110/home/linux/ieng6/cs110x/cs110x/websites/wi17/static/logistics_a00/index.html",
+		"/Users/Admin/Desktop/simpl-master/getusermedia/sources/js/main.js",
+		"/Users/admin/Desktop/UCSD LIFE/QR/qr.js",
+		"/Users/Admin/Desktop/UCSD LIFE/cogs120/Project/src/App.js",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486270176/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem16/Problem16.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486270218/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem10/Problem10.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486270078/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem9/Problem9.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486269745/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem8/Problem8.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486266285/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem4/Problem4.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486268156/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/App.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486267927/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem4/Response.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486265771/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem5/200.txt",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486265729/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem5/Problem5.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486264072/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem3/Request.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486261923/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem3/Problem3.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486253559/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem1/Problem1.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486251180/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem0/Response.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486255202/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem1/Request.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486259801/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem0/Problem0.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486256013/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem1/IntPair.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486256698/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/App.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486257591/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem1/UrlCatItem.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486261464/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem10/Problem10.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486260456/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem2/Problem2.java",
+		"/private/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486253559/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem1/Test.java",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/CSE110",
+		"/Users/admin/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/untitled",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486256601/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem1/Response.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486253961/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem1/UrlCatItem.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486251147/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem0/Request.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486252351/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/App.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486251102/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem0/Problem0.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486251308/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/App.java",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486186058/CSE110/home/linux/ieng6/cs110x/cs110x/websites/wi17/static/labs/lab4/index.html",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486168753/CSE110/home/linux/ieng6/cs110x/cs110x/websites/wi17/static/labs/lab5/index.html",
+		"/Users/Admin/Desktop/FirebaseApp/ng-team/teamController.js",
+		"/Users/admin/Desktop/UCSD LIFE/cogs120/intorHCI/lab4/views/project.handlebars",
+		"/Users/admin/Desktop/UCSD LIFE/cogs120/intorHCI/lab4/routes/project.js",
+		"/Users/admin/Desktop/UCSD LIFE/cogs120/intorHCI/lab4/routes/index.js",
+		"/Users/admin/Desktop/UCSD LIFE/cogs120/intorHCI/lab4/app.js",
+		"/Users/Admin/Desktop/UCSD LIFE/cogs120/intorHCI/lab4/views/index.handlebars",
+		"/Users/admin/Desktop/UCSD LIFE/cogs120/intorHCI/lab4/project.js",
+		"/Users/admin/Desktop/UCSD LIFE/cogs120/Project/static/start/index.html",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1485681725/CSE110/home/linux/ieng6/cs110x/cs110x/websites/wi17/index.html",
+		"/Users/Admin/Desktop/UCSD LIFE/cogs120/Project/static/js/Google.js",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1485559723/CSE110/home/linux/ieng6/cs110x/cs110x/websites/wi17/static/labs/lab4/index.html",
+		"/Users/admin/Desktop/UCSD LIFE/cogs120/intorHCI/lab2/static/index.html",
+		"/Users/Admin/Desktop/UCSD LIFE/cogs120/intorHCI/lab2/static/js/introHCI.js",
+		"/Users/admin/Desktop/UCSD LIFE/CSE130/pa1/module/require-json.js",
+		"/Users/admin/Desktop/UCSD LIFE/CSE130/pa1/module/helpers.js",
+		"/Users/admin/Desktop/UCSD LIFE/CSE130/pa1/module/builtins.js",
+		"/Users/Admin/Desktop/UCSD LIFE/CSE130/pa1/module/require.js",
+		"/Users/Admin/Desktop/UCSD LIFE/CSE130/pa1/README.md",
+		"/Users/Admin/Desktop/UCSD LIFE/CSE130/pa1/quick.js",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1484960620/CSE110/home/linux/ieng6/cs110x/cs110x/websites/wi17/static/labs/lab3/index.html",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1484956475/CSE110/home/linux/ieng6/cs110x/cs110x/websites/wi17/static/labs/lab5/index.html",
+		"/Users/admin/Desktop/UCSD LIFE/cogs120/Project/index.html",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1484952476/CSE110/home/linux/ieng6/cs110x/cs110x/websites/wi17/static/labs/lab4/index.html",
+		"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1484952320/CSE110/home/linux/ieng6/cs110x/cs110x/websites/wi17/static/labs/lab4/index.html",
+		"/Users/Admin/Desktop/UCSD LIFE/cogs120/intorHCI/lab2/static/css/introHCI.css",
+		"/Users/Admin/websites/wi17/static/labs/index.html",
+		"/Users/Admin/Desktop/intorHCI/lab2/static/css/introHCI.css",
+		"/Users/Admin/Desktop/intorHCI/lab1/static/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"QR",
+			"script",
+			"css",
+			"main.js",
+			"< ",
+			"free",
+			"apis",
+			"ajax",
+			"Scan",
+			"User interface",
+			"Database sc",
+			"Database Sc",
+			"Database s",
+			"cam",
+			"enter",
+			"reser",
+			"angular.",
+			"problem0",
+			"problem3",
+			".contro",
+			"Your code should l",
+			"index.png",
+			"selecting <str",
+			"index",
+			"in progr",
+			"we will be fol"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 27.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 36.0
+	},
+	"pinned_build_system": "",
+	"project": "data.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/folders/jf/dl88t3391ssbd_wlyc65jq9m0000gn/T/sublime-sftp-browse-1486261923/untitled/home/webroot/api/src/main/java/com/webroothackathon/app/problem3/Problem3.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
